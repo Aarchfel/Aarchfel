@@ -87,6 +87,10 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Aarchfel&icon=0&color=brightgreen" alt="visitor count"/></a>
+</p>
+
 <!--
 **Aarchfel/Aarchfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
