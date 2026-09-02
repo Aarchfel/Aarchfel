@@ -29,7 +29,7 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 <details>
-<summary><b>🔍 Show More Tech Stack & Secondary Languages</b></summary>
+<summary><b>Show More Tech Stack & Skills</b></summary>
 <br/>
 
 **Languages I Experiment With:**  
@@ -70,18 +70,22 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 * **Software Engineer**
 * **Ambient & Orchestra Music Producer**
 * **Furry Digital Artist**
-* **Offensive pentester & Malware Analyst**
+* **Offensive Pentester & Malware Analyst**
+* **VFX Artist & 3D Modeler**
  
 ---
 
-> “To Be Is To Do”  
-> — *Socrates*
-
-<p align="right"><i>L'Art du Savoir</i></p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Aarchfel&icon=0&color=brightgreen" alt="visitor count"/></a>
-</p>
+<table>
+  <tr>
+    <td align="left" width="850">
+      “To Be Is To Do”<br/>
+      — <i>Socrates</i>
+    </td>
+    <td align="right" width="200">
+      <i>L'Art&nbsp;du&nbsp;Savoir</i>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Aarchfel/Aarchfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
