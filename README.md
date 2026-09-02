@@ -1,7 +1,8 @@
 # About Me:
-Hey there!
- I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things
- The thing that motivates me is knowledge. I want to learn so much things and teach it to others
+Hey there! 🐾
+
+I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things
+The thing that motivates me is knowledge. I want to learn so much things and teach it to others
 
 
 ## 🌐 Socials:
@@ -51,10 +52,10 @@ Hey there!
 </p>
 
 ## Goals & Wanna-be
- **Software Engineer**
- **Ambient & Orchestra Music Producer**
- **Furry Digital Artist**
- **Offensive pentester & Malware Analyst**
+* **Software Engineer**
+* **Ambient & Orchestra Music Producer**
+* **Furry Digital Artist**
+* **Offensive pentester & Malware Analyst**
  
 ---
 
