@@ -1,17 +1,23 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/Aarchfel/Aarchfel/blob/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%" style="border-radius: 20px;">
+  <img src="https://raw.githubusercontent.com/Aarchfel/Aarchfel/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%">
 </p>
-# About Me
+
+<h1><u>Aarchfel</u></h1>
 
 Hey there! 🐾   
 
 I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things!
 <br/>
-The thing that motivates me is knowledge. I want to learn so many things and teach them to others.
+The thing that motivates me is knowledge. I want to learn so many things and teach them to others.  
+
+<br/>
+<br/>
 
 ## 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aarchxyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aarchfel) 
+
+<br/>
 
 # Tech Stack & Tools
 
@@ -45,6 +51,8 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 
 </details>
 
+<br/>
+
 ---
 
 # GitHub Stats
@@ -55,6 +63,8 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aarchfel&theme=dark&hide_border=true"/>
 </p>
+
+<br/>
 
 ## Goals & Wanna-be
 * **Software Engineer**
