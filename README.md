@@ -1,11 +1,16 @@
-# About Me:
-Hey there! 🐾
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/Aarchfel/Aarchfel/blob/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%" style="border-radius: 10px;">
+</p>
+# About Me
+Hey there! 🐾  
 
-I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things
-The thing that motivates me is knowledge. I want to learn so much things and teach it to others
+I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things!  
+
+The thing that motivates me is knowledge. I want to learn so many things and teach them to others.  
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aarchxyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aarchfel) 
 
 # Tech Stack & Tools
@@ -65,7 +70,7 @@ The thing that motivates me is knowledge. I want to learn so much things and tea
 <p align="right"><i>L'Art du Savoir</i></p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Aarchfel&icon=0&color=0" alt="visitor count"/></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Aarchfel&icon=0&color=brightgreen" alt="visitor count"/></a>
 </p>
 
 <!--
