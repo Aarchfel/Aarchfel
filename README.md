@@ -27,6 +27,8 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Seyfert](https://img.shields.io/badge/Seyfert-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTI1NiA2NEw2NCAxNjBMMjU2IDI1Nkw0NDggMTYwTDI1NiA2NFoiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTY0IDI1NkwyNTYgMzUyTDQ0OCAyNTZNNjQgMzUyTDI1NiA0NDFMNDQ4IDM1MiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B&logoColor=white)
 
 <details>
 <summary><b>Show More Tech Stack & Skills</b></summary>
