@@ -1,14 +1,13 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/Aarchfel/Aarchfel/blob/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/Aarchfel/Aarchfel/blob/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%" style="border-radius: 20px;">
 </p>
 # About Me
 Hey there! 🐾  
 
-I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things!  
-
-The thing that motivates me is knowledge. I want to learn so many things and teach them to others.  
-
+I'm a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things!
+<br/>
+The thing that motivates me is knowledge. I want to learn so many things and teach them to others.
 
 ## 🌐 Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aarchxyz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aarchfel) 
