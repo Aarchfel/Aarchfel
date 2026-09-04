@@ -5,11 +5,11 @@
 
 <h1><u>About Me</u></h1>
 
-Hey there! 🐾   
+Hey there! >:3 🐾   
 
 I'm Aarchfel, a 15-year-old furry who is passionate about technology and art. I love exploring new ideas and building cool things!
 <br/>
-The thing that motivates me is knowledge. I want to learn so many things and teach them to others.  
+The thing that motivates me is knowledge. I want to learn so many things and teach them to others. :3  
 
 <br/>
 <br/>
