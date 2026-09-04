@@ -12,6 +12,12 @@ I'm Aarchfel, a 15-year-old furry who is passionate about technology and art. I 
 The thing that motivates me is knowledge. I want to learn so many things and teach them to others. :3  
 
 <br/>
+
+### My Ongoing Project:
+
+> [Discord-SeyfertFramework](https://github.com/Aarchfel/Discord-SeyfertFramework) — A Discord bot project made with [Seyfert](https://www.seyfert.dev/)
+
+<br/>
 <br/>
 
 ## 🌐 Socials
