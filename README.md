@@ -3,13 +3,13 @@
   <img src="https://raw.githubusercontent.com/Aarchfel/Aarchfel/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel Banner" width="100%">
 </p>
 
-# About Me
+# About Me 🐾 🐾
 
 Hey there! \>:3 🐾   
 
 I'm Aarchfel, a 15 y/o indonesian furry who is passionate about technology and art. I love exploring new ideas and building cool things!
 <br/>
-The thing that motivates me is knowledge. I want to learn so many things and teach them to others. :3  
+The thing that motivates me is knowledge. I want to learn so many things and teach them to others :3  
 
 <br/>
 
@@ -80,7 +80,7 @@ My website: https://aarchfel.my.id/
 
 <br/>
 
-## Goals & Wanna-be
+## 💡 Goals & Wanna-be
 * **Software Engineer**
 * **Ambient & Orchestra Music Producer**
 * **Furry Digital Artist**
