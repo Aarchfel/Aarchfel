@@ -13,6 +13,10 @@ The thing that motivates me is knowledge. I want to learn so many things and tea
 
 <br/>
 
+My website: https://aarchfel.my.id/
+
+<br/>
+
 ### My Ongoing Project:
 
 > [Discord-SeyfertFramework](https://github.com/Aarchfel/Discord-SeyfertFramework) — A Discord bot project made with [Seyfert](https://www.seyfert.dev/) | Might Continue later since i will be focused on Discord-PoiseSerenity
