@@ -19,9 +19,7 @@ My website: https://aarchfel.my.id/
 
 ### My Ongoing Project:
 
-> [Discord-SeyfertFramework](https://github.com/Aarchfel/Discord-SeyfertFramework) — A Discord bot project made with [`Seyfert`](https://www.seyfert.dev/) | Might Continue later since i will be focused on Discord-PoiseSerenity
-
-> [Discord-PoiseSerenity](https://github.com/Aarchfel/Discord-PoiseSerenity) — A Discord bot project made with [`Poise - Serenity`](https://docs.rs/poise/0.6.2/poise/index.html#quickstart) on [`Rust`](https://rust-lang.org/)
+> Taking A Break from DiscordBots | Probably i will comeback developing bots next months, i will focused on desktop software development and make my own productivity apps, and focused on roblox scripting
 
 <br/>
 <br/>
