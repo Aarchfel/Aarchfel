@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/Aarchfel/Aarchfel/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.webp" alt="Aarchfel's night sky banner" width="100%">
 </p>
 
-<h1 align="center">Hey there! I'm Aarchfel :3</h1>
+<h1 align="center">🐾 Hey there! I'm Aarchfel!</h1>
 
 <p align="center">
   <i>Developer, artist, and professional yapper</i>
@@ -27,6 +27,14 @@
     X (aka Twitter)
   </a>
 </p>
+
+<br />
+
+<div align="center">
+
+*✦ Currently working on [``Baru``](https://github.com/Aarchfel/Baru) — Personal Desktop Productivity App*
+
+</div>
 
 ---
 
