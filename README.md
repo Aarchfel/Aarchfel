@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aarchfel/Aarchfel/ec97800350287b6faa0511f0480d2bf354510857/NightSkyArt.png" alt="Aarchfel's night sky banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Aarchfel/Aarchfel/ec97800350287b6faa0511f0480d2bf354510857/NightSkyWithStars.png" alt="Aarchfel's night sky banner" width="100%">
 </p>
 
 <h1 align="center">🐾 Hey there! I'm Aarchfel!</h1>
